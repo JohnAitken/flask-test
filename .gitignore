@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 .vscode/
-
+.vscode
+website/__pycache__
+website/database.db
 # C extensions
 *.so
 
